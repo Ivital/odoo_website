@@ -56,3 +56,10 @@ msgid ""
 msgstr ""
 "Відносний URL-шлях, куди користувачів буде перенаправлено після "
 "входу/реєстрації. Приклад: '/', '/shop', '/thank-you-for-joining-us'."
+
+#. module: website_user_login_redirect_custom
+#. odoo-python
+#: code:addons/website_user_login_redirect_custom/models/res_config_settings.py:0
+msgid "Custom URL must be a valid relative path starting with '/'."
+msgstr ""
+"Користувацький URL має бути дійсним відносним шляхом, що починається з '/'."

@@ -34,3 +34,15 @@ msgstr ""
 #: model:ir.model.fields,help:website_product_document_download_counter.field_product_document__download_count
 msgid "Number of times this document has been downloaded"
 msgstr "Кількість завантажень цього документа"
+
+#. module: website_product_document_download_counter
+#. odoo-python
+#: code:addons/website_product_document_download_counter/models/product_document.py:0
+msgid "Can't download a document not shown on product page"
+msgstr "Не можна завантажити документ, який не показано на сторінці товару"
+
+#. module: website_product_document_download_counter
+#. odoo-python
+#: code:addons/website_product_document_download_counter/models/product_document.py:0
+msgid "Can't download an inactive document"
+msgstr "Не можна завантажити неактивний документ"

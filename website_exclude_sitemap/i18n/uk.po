@@ -54,3 +54,15 @@ msgstr ""
 "Розділяйте шляхи переносами рядків, комами або крапками з комою.\n"
 "                        Використовуйте * всередині сегмента, ** між сегментами, а\n"
 "                        кінцевий / — щоб виключити шлях і все, що міститься нижче нього."
+
+#. module: website_exclude_sitemap
+#. odoo-python
+#: code:addons/website_exclude_sitemap/wizards/res_config_settings.py:0
+msgid "Sitemap reloaded"
+msgstr "Карту сайту перезавантажено"
+
+#. module: website_exclude_sitemap
+#. odoo-python
+#: code:addons/website_exclude_sitemap/wizards/res_config_settings.py:0
+msgid "The cached sitemap has been cleared for the current website."
+msgstr "Кеш карти сайту очищено для поточного вебсайту."

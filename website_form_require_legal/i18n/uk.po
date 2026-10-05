@@ -23,3 +23,9 @@ msgstr "умови та положення"
 #: model_terms:ir.ui.view,arch_db:website_form_require_legal.s_website_form_options
 msgid "Legal terms acceptance"
 msgstr "Прийняття юридичних умов"
+
+#. module: website_form_require_legal
+#. odoo-javascript
+#: code:addons/website_form_require_legal/static/src/xml/website_form_editor.xml:0
+msgid "Agree to"
+msgstr "Погодитися з"

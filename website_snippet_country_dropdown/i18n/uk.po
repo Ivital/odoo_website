@@ -17,3 +17,17 @@ msgstr ""
 #: model_terms:ir.ui.view,arch_db:website_snippet_country_dropdown.dropdown_element_form
 msgid "Your Label"
 msgstr "Ваша етикетка"
+
+#. module: website_snippet_country_dropdown
+#. odoo-javascript
+#: code:addons/website_snippet_country_dropdown/static/src/xml/country_dropdown.xml:0
+msgid ""
+"Write the \"name\" attribute for the input what will be sent with the form."
+msgstr ""
+"Вкажіть атрибут «name» для поля введення, яке буде надіслано з формою."
+
+#. module: website_snippet_country_dropdown
+#. odoo-javascript
+#: code:addons/website_snippet_country_dropdown/static/src/xml/country_dropdown.xml:0
+msgid "You can modify the label directly with the website editor."
+msgstr "Мітку можна змінити безпосередньо в редакторі вебсайту."
