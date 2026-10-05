@@ -40,3 +40,28 @@ msgstr "Значення, задані тут, є специфічними дл�
 #: model:ir.model.fields,field_description:website_whatsapp.field_website__whatsapp_number
 msgid "WhatsApp number"
 msgstr "Номер WhatsApp"
+
+#. module: website_whatsapp
+#: model:ir.model.fields,help:website_whatsapp.field_res_config_settings__whatsapp_text
+#: model:ir.model.fields,help:website_whatsapp.field_website__whatsapp_text
+msgid "Default text to send as message"
+msgstr "Типовий текст для надсилання як повідомлення"
+
+#. module: website_whatsapp
+#: model:ir.model.fields,help:website_whatsapp.field_res_config_settings__whatsapp_track_url
+#: model:ir.model.fields,help:website_whatsapp.field_website__whatsapp_track_url
+msgid ""
+"Indicate in the user's message the URL of the page from which it was sent"
+msgstr ""
+"Указувати в повідомленні користувача URL сторінки, з якої його було "
+"надіслано"
+
+#. module: website_whatsapp
+#: model_terms:ir.ui.view,arch_db:website_whatsapp.layout
+msgid "WhatsApp Floating Icon"
+msgstr "Плаваюча іконка WhatsApp"
+
+#. module: website_whatsapp
+#: model_terms:ir.ui.view,arch_db:website_whatsapp.res_config_settings_view_form
+msgid "You must add the mobile number with the country prefix"
+msgstr "Потрібно додати мобільний номер із кодом країни"

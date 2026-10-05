@@ -27,3 +27,33 @@ msgstr "Політика файлів cookie"
 #: model:ir.model.fields,field_description:website_cookiebot.field_res_config_settings__cookiebot_dgid
 msgid "Domain Group ID"
 msgstr "ID групи домену"
+
+#. module: website_cookiebot
+#: model_terms:ir.ui.view,arch_db:website_cookiebot.res_config_settings_view_form
+msgid ""
+"<i class=\"o_button_icon oi oi-fw oi-arrow-right me-1\"/>\n"
+"                                How to configure Cookiebot"
+msgstr ""
+"<i class=\"o_button_icon oi oi-fw oi-arrow-right me-1\"/>\n"
+"                                Як налаштувати Cookiebot"
+
+#. module: website_cookiebot
+#: model_terms:ir.ui.view,arch_db:website_cookiebot.res_config_settings_view_form
+msgid "Ask for consent on cookies usage"
+msgstr "Запитувати згоду на використання cookie"
+
+#. module: website_cookiebot
+#: model:ir.model.fields,field_description:website_cookiebot.field_website__cookiebot_enabled
+msgid "Cookiebot Enabled"
+msgstr "Cookiebot увімкнено"
+
+#. module: website_cookiebot
+#: model:ir.model.fields,help:website_cookiebot.field_res_config_settings__cookiebot_dgid
+#: model:ir.model.fields,help:website_cookiebot.field_website__cookiebot_dgid
+msgid "Get this code from Cookiebot to enable it on the website."
+msgstr "Отримайте цей код у Cookiebot, щоб увімкнути його на вебсайті."
+
+#. module: website_cookiebot
+#: model_terms:ir.ui.view,arch_db:website_cookiebot.res_config_settings_view_form
+msgid "Instead of step 3, paste your Domain Group ID below:"
+msgstr "Замість кроку 3 вставте свій Domain Group ID нижче:"

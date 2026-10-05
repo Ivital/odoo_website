@@ -17,3 +17,8 @@ msgstr ""
 #: model:ir.model.fields,field_description:website_product_document_download_counter.field_product_document__download_count
 msgid "Download Count"
 msgstr "Кількість завантажень"
+
+#. module: website_product_document_download_counter
+#: model:ir.model.fields,field_description:website_product_document_download_counter.field_product_document__download_count_enabled
+msgid "Download Count Enabled"
+msgstr "Увімкнути лічильник завантажень"

@@ -20,7 +20,7 @@ msgstr ""
 #. module: website_analytics_matomo
 #: model_terms:ir.ui.view,arch_db:website_analytics_matomo.res_config_settings_view_form
 msgid "Active Time (seconds)"
-msgstr ""
+msgstr "Активний час (секунди)"
 
 #. module: website_analytics_matomo
 #: model:ir.model,name:website_analytics_matomo.model_res_config_settings
@@ -42,6 +42,7 @@ msgstr "Увімкнути heartbeat"
 #: model:ir.model.fields,help:website_analytics_matomo.field_website__matomo_heartbeat_timer
 msgid "How many seconds a tab needs to be active to be counted as viewed."
 msgstr ""
+"Скільки секунд вкладка має бути активною, щоб її вважали переглянутою."
 
 #. module: website_analytics_matomo
 #: model:ir.model.fields,field_description:website_analytics_matomo.field_res_config_settings__has_matomo_analytics
@@ -64,7 +65,7 @@ msgstr "Увімкнути User ID у Matomo"
 #. module: website_analytics_matomo
 #: model:ir.model.fields,field_description:website_analytics_matomo.field_website__matomo_get_userid
 msgid "Matomo Get Userid"
-msgstr ""
+msgstr "Matomo: отримати ID користувача"
 
 #. module: website_analytics_matomo
 #: model:ir.model.fields,field_description:website_analytics_matomo.field_res_config_settings__matomo_heartbeat_timer
@@ -101,19 +102,19 @@ msgstr ""
 #: model:ir.model.fields,help:website_analytics_matomo.field_res_config_settings__matomo_analytics_id
 #: model:ir.model.fields,help:website_analytics_matomo.field_website__matomo_analytics_id
 msgid "The ID Matomo uses to identify the website"
-msgstr ""
+msgstr "ID, який Matomo використовує для ідентифікації вебсайту"
 
 #. module: website_analytics_matomo
 #: model:ir.model.fields,help:website_analytics_matomo.field_res_config_settings__matomo_analytics_host
 #: model:ir.model.fields,help:website_analytics_matomo.field_website__matomo_analytics_host
 msgid ""
 "The host/path your Matomo installation is accessible by on the internet."
-msgstr ""
+msgstr "Хост/шлях, за яким ваша інсталяція Matomo доступна в Інтернеті."
 
 #. module: website_analytics_matomo
 #: model_terms:ir.ui.view,arch_db:website_analytics_matomo.res_config_settings_view_form
 msgid "Track visits in Matomo Analytics"
-msgstr ""
+msgstr "Відстежувати візити в Matomo Analytics"
 
 #. module: website_analytics_matomo
 #: model:ir.model,name:website_analytics_matomo.model_website
@@ -124,3 +125,14 @@ msgstr "Веб-сайт"
 #: model_terms:ir.ui.view,arch_db:website_analytics_matomo.res_config_settings_view_form
 msgid "https://matomo.host.name/"
 msgstr ""
+
+#. module: website_analytics_matomo
+#: model_terms:ir.ui.view,arch_db:website_analytics_matomo.res_config_settings_view_form
+msgid ""
+"Set the Active Time in seconds. Only if the page was viewed for at least this\n"
+"                                amount of time (and the user leaves the page or focuses away from the tab)\n"
+"                                then a ping request will be sent."
+msgstr ""
+"Установіть активний час у секундах. Лише якщо сторінку переглядали щонайменше\n"
+"                                стільки часу (і користувач залишає сторінку або переводить фокус з вкладки),\n"
+"                                буде надіслано ping-запит."

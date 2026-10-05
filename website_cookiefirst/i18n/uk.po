@@ -38,3 +38,14 @@ msgstr "ID відстеження"
 #: model:ir.model.fields,field_description:website_cookiefirst.field_res_config_settings__cookiefirst_enabled
 msgid "Use Cookiefirst"
 msgstr "Використовувати Cookiefirst"
+
+#. module: website_cookiefirst
+#: model_terms:ir.ui.view,arch_db:website_cookiefirst.res_config_settings_view_form
+msgid "Add Cookiefirst functionality"
+msgstr "Додати функціональність Cookiefirst"
+
+#. module: website_cookiefirst
+#: model:ir.model.fields,help:website_cookiefirst.field_res_config_settings__cookiefirst_identifier
+#: model:ir.model.fields,help:website_cookiefirst.field_website__cookiefirst_identifier
+msgid "This field holds the ID, needed for Cookiefirst functionality."
+msgstr "Це поле містить ID, необхідний для функціональності Cookiefirst."

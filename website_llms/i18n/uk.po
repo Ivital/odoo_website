@@ -19,3 +19,45 @@ msgstr ""
 #: model_terms:ir.ui.view,arch_db:website_llms.res_config_settings_view_form_inherit_website_llms
 msgid "llms.txt Content"
 msgstr "Вміст llms.txt"
+
+#. module: website_llms
+#: model_terms:ir.ui.view,arch_db:website_llms.res_config_settings_view_form_inherit_website_llms
+msgid ""
+"# Your Website — Information for LLMs\n"
+"\n"
+"## Company\n"
+"- About: https://yourdomain.com/aboutus\n"
+"- Contact: https://yourdomain.com/contactus\n"
+"\n"
+"## Content\n"
+"- Blog: https://yourdomain.com/blog"
+msgstr ""
+"# Ваш вебсайт — інформація для LLM\n"
+"\n"
+"## Компанія\n"
+"- Про нас: https://yourdomain.com/aboutus\n"
+"- Контакти: https://yourdomain.com/contactus\n"
+"\n"
+"## Вміст\n"
+"- Блог: https://yourdomain.com/blog"
+
+#. module: website_llms
+#: model:ir.model.fields,help:website_llms.field_res_config_settings__llms_txt_content
+#: model:ir.model.fields,help:website_llms.field_website__llms_txt_content
+msgid ""
+"Content to be served at /llms.txt. This file provides information for Large "
+"Language Models (LLMs) about your website."
+msgstr ""
+"Вміст, що надаватиметься за адресою /llms.txt. Цей файл містить інформацію "
+"про ваш вебсайт для великих мовних моделей (LLM)."
+
+#. module: website_llms
+#: model_terms:ir.ui.view,arch_db:website_llms.res_config_settings_view_form_inherit_website_llms
+msgid ""
+"Content to be served at <code>/llms.txt</code>. This file provides\n"
+"                                    information for Large Language Models (LLMs) about your website.\n"
+"                                    Leave empty to use default content."
+msgstr ""
+"Вміст, який буде доступний за адресою <code>/llms.txt</code>. Цей файл надає\n"
+"                                    великим мовним моделям (LLM) інформацію про ваш вебсайт.\n"
+"                                    Залиште порожнім, щоб використовувати типовий вміст."

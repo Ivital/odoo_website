@@ -22,3 +22,8 @@ msgstr "Вебсайт"
 #: model_terms:ir.ui.view,arch_db:website_partner_form.view_res_partner_form
 msgid "Full Description"
 msgstr "Повний опис"
+
+#. module: website_partner_form
+#: model_terms:ir.ui.view,arch_db:website_partner_form.view_res_partner_form
+msgid "Short Description"
+msgstr "Короткий опис"

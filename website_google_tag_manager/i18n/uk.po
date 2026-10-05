@@ -42,12 +42,12 @@ msgstr ""
 #. module: website_google_tag_manager
 #: model_terms:ir.ui.view,arch_db:website_google_tag_manager.view_website_config_settings
 msgid "How to get my GTM container ID"
-msgstr ""
+msgstr "Як отримати ID контейнера GTM"
 
 #. module: website_google_tag_manager
 #: model_terms:ir.ui.view,arch_db:website_google_tag_manager.view_website_config_settings
 msgid "Manage all your tags without editing code."
-msgstr ""
+msgstr "Керуйте всіма тегами без редагування коду."
 
 #. module: website_google_tag_manager
 #: model:ir.model,name:website_google_tag_manager.model_website

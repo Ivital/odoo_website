@@ -52,3 +52,234 @@ msgstr "Відокремлюваність положень"
 #: model_terms:ir.ui.view,arch_db:website_legal_page.legal_page
 msgid "Your Content"
 msgstr "Ваш вміст"
+
+#. module: website_legal_page
+#: model_terms:ir.ui.view,arch_db:website_legal_page.legal_page
+msgid ""
+"**COMPANY NAME** is permitted to revise these Terms at any time as it sees "
+"fit, and by using this Website you are expected to review these Terms on a "
+"regular basis."
+msgstr ""
+"**COMPANY NAME** має право будь-коли переглядати ці Умови на власний розсуд;"
+" користуючись цим вебсайтом, ви повинні регулярно переглядати ці Умови."
+
+#. module: website_legal_page
+#: model_terms:ir.ui.view,arch_db:website_legal_page.legal_page
+msgid "<font style=\"font-size: 42px;\">Table of Content</font>"
+msgstr "<font style=\"font-size: 42px;\">Зміст</font>"
+
+#. module: website_legal_page
+#: model_terms:ir.ui.view,arch_db:website_legal_page.legal_page
+msgid ""
+"Certain areas of this Website are restricted from being access by you and "
+"**COMPANY NAME** may further restrict access by you to any areas of this "
+"Website, at any time, in absolute discretion. Any user ID and password you "
+"may have for this Website are confidential and you must maintain "
+"confidentiality as well."
+msgstr ""
+"Доступ до певних областей цього вебсайту для вас обмежено, і **COMPANY "
+"NAME** може на власний розсуд у будь-який час додатково обмежити ваш доступ "
+"до будь-яких областей цього вебсайту. Будь-які ID користувача та пароль, які"
+" ви можете мати для цього вебсайту, є конфіденційними, і ви також "
+"зобов'язані зберігати їх конфіденційність."
+
+#. module: website_legal_page
+#: model_terms:ir.ui.view,arch_db:website_legal_page.legal_page
+msgid "Governing Law &amp;amp; Jurisdiction"
+msgstr "Застосовне право &amp;amp; юрисдикція"
+
+#. module: website_legal_page
+#: model_terms:ir.ui.view,arch_db:website_legal_page.legal_page
+msgid ""
+"If any provision of these Terms is found to be invalid under any applicable "
+"law, such provisions shall be deleted without affecting the remaining "
+"provisions herein."
+msgstr ""
+"Якщо будь-яке положення цих Умов визнається недійсним за чинним "
+"законодавством, його буде вилучено без впливу на інші положення."
+
+#. module: website_legal_page
+#: model_terms:ir.ui.view,arch_db:website_legal_page.legal_page
+msgid ""
+"In no event shall **COMPANY NAME**, nor any of its officers, directors and "
+"employees, shall be held liable for anything arising out of or in any way "
+"connected with your use of this Website whether such liability is under "
+"contract. **COMPANY NAME**, including its officers, directors and employees "
+"shall not be held liable for any indirect, consequential or special "
+"liability arising out of or in any way related to your use of this Website."
+msgstr ""
+"За жодних обставин **COMPANY NAME**, а також її посадові особи, директори та"
+" працівники не несуть відповідальності за будь-що, що виникає з вашого "
+"використання цього вебсайту або будь-яким чином із ним пов'язане, незалежно "
+"від того, чи ґрунтується така відповідальність на договорі. **COMPANY "
+"NAME**, включно з її посадовими особами, директорами та працівниками, не "
+"несе відповідальності за будь-які непрямі, побічні або спеціальні "
+"зобов'язання, що виникають із вашого використання цього вебсайту або будь-"
+"яким чином із ним пов'язані."
+
+#. module: website_legal_page
+#: model_terms:ir.ui.view,arch_db:website_legal_page.legal_page
+msgid ""
+"In these Website Standard Terms and Conditions, “Your Content” shall mean any audio, video text, images or other material you choose to display on this Website. By displaying Your Content, you grant **COMPANY NAME** a non-exclusive, worldwide irrevocable, sub licensable license to use, reproduce, adapt, publish, translate and distribute it in any and all media. <br/>\n"
+"                                        Your Content must be your own and must not be invading any third-party's rights. **COMPANY NAME** reserves the right to remove any of Your Content from this Website at any time without notice."
+msgstr ""
+"У цих стандартних Умовах використання вебсайту «Ваш вміст» означає будь-які аудіо-, відео-, текстові матеріали, зображення або інші матеріали, які ви вирішили розмістити на цьому вебсайті. Розміщуючи Ваш вміст, ви надаєте **COMPANY NAME** невиключну, всесвітню, безвідкличну ліцензію з правом субліцензування на використання, відтворення, адаптацію, публікацію, переклад і розповсюдження такого вмісту в будь-яких засобах. <br/>\n"
+"                                        Ваш вміст має належати вам і не порушувати прав третіх осіб. **COMPANY NAME** залишає за собою право в будь-який час без попередження видалити будь-який Ваш вміст із цього вебсайту."
+
+#. module: website_legal_page
+#: model_terms:ir.ui.view,arch_db:website_legal_page.legal_page
+msgid "Intellectual Property Rights"
+msgstr "Права інтелектуальної власності"
+
+#. module: website_legal_page
+#: model_terms:ir.ui.view,arch_db:website_legal_page.legal_page
+msgid "Limitation of liability"
+msgstr "Обмеження відповідальності"
+
+#. module: website_legal_page
+#: model_terms:ir.ui.view,arch_db:website_legal_page.legal_page
+msgid ""
+"Other than the content you own, under these Terms, **COMPANY NAME** and/or its licensors own all the intellectual property rights and materials contained in this Website. <br/>\n"
+"                                        You are granted limited license only for purposes of viewing the material contained on this Website."
+msgstr ""
+"Окрім вмісту, який належить вам, відповідно до цих Умов **COMPANY NAME** та/або її ліцензіари володіють усіма правами інтелектуальної власності та матеріалами, що містяться на цьому вебсайті. <br/>\n"
+"                                        Вам надається лише обмежена ліцензія для перегляду матеріалів, що містяться на цьому вебсайті."
+
+#. module: website_legal_page
+#: model_terms:ir.ui.view,arch_db:website_legal_page.legal_page
+msgid ""
+"THIS IS A SAMPLE PAGE! <br/>Please, edit this page to be valid with your use"
+" case."
+msgstr ""
+"ЦЕ ЗРАЗОК СТОРІНКИ! <br/>Відредагуйте цю сторінку відповідно до свого "
+"сценарію використання."
+
+#. module: website_legal_page
+#: model_terms:ir.ui.view,arch_db:website_legal_page.legal_page
+msgid ""
+"The **COMPANY NAME** is allowed to assign, transfer, and subcontract its "
+"rights and/or obligations under these Terms without any notification. "
+"However, you are not allowed to assign, transfer, or subcontract any of your"
+" rights and/or obligations under these Terms."
+msgstr ""
+"**COMPANY NAME** має право передавати, відступати та передоручати свої права"
+" та/або обов'язки за цими Умовами без будь-якого повідомлення. Водночас ви "
+"не маєте права передавати, відступати або передоручати будь-які свої права "
+"та/або обов'язки за цими Умовами."
+
+#. module: website_legal_page
+#: model_terms:ir.ui.view,arch_db:website_legal_page.legal_page
+msgid ""
+"These Terms will be governed by and interpreted in accordance with the laws "
+"of the State of **COUNTRY**, and you submit to the non-exclusive "
+"jurisdiction of the state and federal courts located in **COUNTRY** for the "
+"resolution of any disputes."
+msgstr ""
+"Ці Умови регулюються й тлумачаться відповідно до законів штату **COUNTRY**, "
+"а ви погоджуєтеся на невиключну юрисдикцію судів штату та федеральних судів,"
+" розташованих у **COUNTRY**, для вирішення будь-яких спорів."
+
+#. module: website_legal_page
+#: model_terms:ir.ui.view,arch_db:website_legal_page.legal_page
+msgid ""
+"These Website Standard Terms and Conditions written on this webpage shall manage your use of our website, **WEBSITE NAME** accessible at **WEBSITE URL**. <br/>\n"
+"                                        These Terms will be applied fully and affect to your use of this Website. By using this Website, you agreed to accept all terms and conditions written in here. You must not use this Website if you disagree with any of these Website Standard Terms and Conditions. <br/>\n"
+"                                        Minors or people below 18 years old are not allowed to use this Website."
+msgstr ""
+"Ці стандартні Умови використання вебсайту, викладені на цій сторінці, регулюють використання вами нашого вебсайту **WEBSITE NAME**, доступного за адресою **WEBSITE URL**. <br/>\n"
+"                                        Ці Умови застосовуються в повному обсязі та впливають на використання вами цього вебсайту. Використовуючи цей вебсайт, ви погоджуєтеся прийняти всі умови, викладені тут. Ви не повинні користуватися цим вебсайтом, якщо не погоджуєтеся з будь-якою з цих стандартних Умов. <br/>\n"
+"                                        Неповнолітнім або особам віком до 18 років користуватися цим вебсайтом заборонено."
+
+#. module: website_legal_page
+#: model_terms:ir.ui.view,arch_db:website_legal_page.legal_page
+msgid ""
+"This Website is provided “as is,” with all faults, and **COMPANY NAME** "
+"express no representations or warranties, of any kind related to this "
+"Website or the materials contained on this Website. Also, nothing contained "
+"on this Website shall be interpreted as advising you."
+msgstr ""
+"Цей вебсайт надається «як є», з усіма недоліками, і **COMPANY NAME** не "
+"надає жодних заяв чи гарантій будь-якого виду щодо цього вебсайту або "
+"матеріалів, що містяться на ньому. Також жоден матеріал на цьому вебсайті не"
+" слід тлумачити як надання вам консультації."
+
+#. module: website_legal_page
+#: model_terms:ir.ui.view,arch_db:website_legal_page.legal_page
+msgid "Variation of Terms"
+msgstr "Зміна умов"
+
+#. module: website_legal_page
+#: model_terms:ir.ui.view,arch_db:website_legal_page.legal_page
+msgid "You are specifically restricted from all of the following:"
+msgstr "Вам явно заборонено все наведене нижче:"
+
+#. module: website_legal_page
+#: model_terms:ir.ui.view,arch_db:website_legal_page.legal_page
+msgid ""
+"You hereby indemnify to the fullest extent **COMPANY NAME** from and against"
+" any and/or all liabilities, costs, demands, causes of action, damages and "
+"expenses arising in any way related to your breach of any of the provisions "
+"of these Terms."
+msgstr ""
+"Цим ви зобов'язуєтеся в максимально дозволеному обсязі відшкодувати "
+"**COMPANY NAME** та захистити її від будь-яких і всіх зобов'язань, витрат, "
+"вимог, підстав для позову, збитків і видатків, що будь-яким чином виникають "
+"у зв'язку з порушенням вами будь-якого положення цих Умов."
+
+#. module: website_legal_page
+#: model_terms:ir.ui.view,arch_db:website_legal_page.legal_page
+msgid ""
+"engaging in any data mining, data harvesting, data extracting or any other "
+"similar activity in relation to this Website;"
+msgstr ""
+"здійснювати збір даних, видобування даних або будь-яку іншу подібну "
+"діяльність щодо цього вебсайту;"
+
+#. module: website_legal_page
+#: model_terms:ir.ui.view,arch_db:website_legal_page.legal_page
+msgid "publicly performing and/or showing any Website material;"
+msgstr "публічне виконання та/або показ будь-яких матеріалів вебсайту;"
+
+#. module: website_legal_page
+#: model_terms:ir.ui.view,arch_db:website_legal_page.legal_page
+msgid "publishing any Website material in any other media;"
+msgstr "публікація будь-яких матеріалів вебсайту в інших медіа;"
+
+#. module: website_legal_page
+#: model_terms:ir.ui.view,arch_db:website_legal_page.legal_page
+msgid ""
+"selling, sublicensing and/or otherwise commercializing any Website material;"
+msgstr ""
+"продавати, субліцензувати та/або іншим чином комерціалізувати будь-які "
+"матеріали вебсайту;"
+
+#. module: website_legal_page
+#: model_terms:ir.ui.view,arch_db:website_legal_page.legal_page
+msgid ""
+"using this Website contrary to applicable laws and regulations, or in any "
+"way may cause harm to the Website, or to any person or business entity;"
+msgstr ""
+"використовувати цей вебсайт усупереч чинним законам і нормативам або будь-"
+"яким способом, що може завдати шкоди вебсайту, особі чи суб’єкту "
+"господарювання;"
+
+#. module: website_legal_page
+#: model_terms:ir.ui.view,arch_db:website_legal_page.legal_page
+msgid ""
+"using this Website in any way that impacts user access to this Website;"
+msgstr ""
+"використовувати цей вебсайт у будь-який спосіб, що впливає на доступ "
+"користувачів до цього вебсайту;"
+
+#. module: website_legal_page
+#: model_terms:ir.ui.view,arch_db:website_legal_page.legal_page
+msgid ""
+"using this Website in any way that is or may be damaging to this Website;"
+msgstr ""
+"використовувати цей вебсайт у будь-який спосіб, що завдає або може завдати "
+"шкоди цьому вебсайту;"
+
+#. module: website_legal_page
+#: model_terms:ir.ui.view,arch_db:website_legal_page.legal_page
+msgid "using this Website to engage in any advertising or marketing."
+msgstr "використання цього вебсайту для реклами або маркетингу."

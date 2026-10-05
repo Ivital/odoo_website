@@ -24,3 +24,33 @@ msgstr "Перезавантажити sitemap"
 #: model_terms:ir.ui.view,arch_db:website_exclude_sitemap.res_config_settings_view_form
 msgid "Sitemap Exclusions"
 msgstr "Виключення з карти сайту"
+
+#. module: website_exclude_sitemap
+#: model_terms:ir.ui.view,arch_db:website_exclude_sitemap.res_config_settings_view_form
+msgid "Exclude specific URLs or wildcard patterns from sitemap.xml."
+msgstr "Виключити певні URL або шаблони wildcard із sitemap.xml."
+
+#. module: website_exclude_sitemap
+#: model:ir.model.fields,help:website_exclude_sitemap.field_res_config_settings__sitemap_excluded_paths
+#: model:ir.model.fields,help:website_exclude_sitemap.field_website__sitemap_excluded_paths
+msgid ""
+"One path or pattern per line, comma, or semicolon. * matches inside one path"
+" segment, ** across segments, and a trailing / excludes a path and "
+"everything below it. Examples: /contactus, /solutions*, /blog/*/feed, "
+"/customers/, /jobs/**"
+msgstr ""
+"Один шлях або шаблон на рядок, через кому або крапку з комою. * відповідає в"
+" межах одного сегмента шляху, ** — між сегментами, а кінцевий / виключає "
+"шлях і все, що міститься нижче нього. Приклади: /contactus, /solutions*, "
+"/blog/*/feed, /customers/, /jobs/**"
+
+#. module: website_exclude_sitemap
+#: model_terms:ir.ui.view,arch_db:website_exclude_sitemap.res_config_settings_view_form
+msgid ""
+"Separate paths with line breaks, commas, or semicolons.\n"
+"                        Use * inside a segment, ** across segments, and a\n"
+"                        trailing / to exclude a path and everything below it."
+msgstr ""
+"Розділяйте шляхи переносами рядків, комами або крапками з комою.\n"
+"                        Використовуйте * всередині сегмента, ** між сегментами, а\n"
+"                        кінцевий / — щоб виключити шлях і все, що міститься нижче нього."

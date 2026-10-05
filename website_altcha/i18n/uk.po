@@ -113,3 +113,28 @@ msgstr "Останнє оновлення"
 #: model_terms:ir.ui.view,arch_db:website_altcha.res_config_settings_view_form
 msgid "Timeout"
 msgstr "Тайм-аут"
+
+#. module: website_altcha
+#: model_terms:ir.ui.view,arch_db:website_altcha.res_config_settings_view_form
+msgid "Add Altcha functionality"
+msgstr "Додати функціональність Altcha"
+
+#. module: website_altcha
+#: model:ir.model.fields,help:website_altcha.field_res_config_settings__altcha_cost
+#: model:ir.model.fields,help:website_altcha.field_website__altcha_cost
+msgid ""
+"Cost factor for the hashing algorithm.\n"
+"        For PBKDF2, this is the number of iterations.\n"
+"        Default is 5000 for PBKDF2/SHA-512."
+msgstr ""
+"Коефіцієнт вартості для алгоритму хешування.\n"
+"        Для PBKDF2 це кількість ітерацій.\n"
+"        За замовчуванням для PBKDF2/SHA-512 — 5000."
+
+#. module: website_altcha
+#: model:ir.model.fields,help:website_altcha.field_res_config_settings__altcha_timeout
+#: model:ir.model.fields,help:website_altcha.field_website__altcha_timeout
+msgid "Time in minutes before a captcha expires. Default is 5 minutes."
+msgstr ""
+"Час у хвилинах до закінчення строку дії captcha. За замовчуванням — 5 "
+"хвилин."

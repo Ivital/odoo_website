@@ -18,3 +18,8 @@ msgstr ""
 #: code:addons/website_form_require_legal/static/src/xml/website_form_editor.xml:0
 msgid "terms and conditions"
 msgstr "умови та положення"
+
+#. module: website_form_require_legal
+#: model_terms:ir.ui.view,arch_db:website_form_require_legal.s_website_form_options
+msgid "Legal terms acceptance"
+msgstr "Прийняття юридичних умов"

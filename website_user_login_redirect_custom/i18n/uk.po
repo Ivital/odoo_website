@@ -23,3 +23,19 @@ msgstr "Користувацький URL"
 #: model:ir.model.fields,field_description:website_user_login_redirect_custom.field_res_config_settings__website_login_redirect_enabled
 msgid "On Login/Signup Redirect"
 msgstr "Перенаправлення після входу/реєстрації"
+
+#. module: website_user_login_redirect_custom
+#: model_terms:ir.ui.view,arch_db:website_user_login_redirect_custom.view_website_login_redirect_settings
+msgid "Redirect on Login/Signup"
+msgstr "Перенаправляти під час входу/реєстрації"
+
+#. module: website_user_login_redirect_custom
+#: model_terms:ir.ui.view,arch_db:website_user_login_redirect_custom.view_website_login_redirect_settings
+msgid "Redirect users to a custom page after they log in or sign up."
+msgstr ""
+"Перенаправляти користувачів на власну сторінку після входу або реєстрації."
+
+#. module: website_user_login_redirect_custom
+#: model_terms:ir.ui.view,arch_db:website_user_login_redirect_custom.view_website_login_redirect_settings
+msgid "Relative path, e.g. <code>/shop</code> or <code>/welcome</code>."
+msgstr "Відносний шлях, напр. <code>/shop</code> або <code>/welcome</code>."
