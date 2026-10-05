@@ -18,3 +18,8 @@ msgstr ""
 #: model_terms:ir.ui.view,arch_db:website_user_login_redirect_custom.view_website_login_redirect_settings
 msgid "Custom URL"
 msgstr "Користувацький URL"
+
+#. module: website_user_login_redirect_custom
+#: model:ir.model.fields,field_description:website_user_login_redirect_custom.field_res_config_settings__website_login_redirect_enabled
+msgid "On Login/Signup Redirect"
+msgstr "Перенаправлення після входу/реєстрації"

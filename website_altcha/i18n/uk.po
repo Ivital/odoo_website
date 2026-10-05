@@ -60,3 +60,56 @@ msgstr "Ключ"
 #: model:ir.model.fields,field_description:website_altcha.field_altcha_key__used
 msgid "Used"
 msgstr "Використано"
+
+#. module: website_altcha
+#: model_terms:ir.ui.view,arch_db:website_altcha.res_config_settings_view_form
+msgid "Algorithm"
+msgstr "Алгоритм"
+
+#. module: website_altcha
+#: model:ir.model.fields,field_description:website_altcha.field_res_config_settings__altcha_algorithm
+#: model:ir.model.fields,field_description:website_altcha.field_website__altcha_algorithm
+msgid "Altcha Algorithm"
+msgstr "Алгоритм Altcha"
+
+#. module: website_altcha
+#: model:ir.model.fields,field_description:website_altcha.field_res_config_settings__altcha_private_key
+#: model:ir.model.fields,field_description:website_altcha.field_website__altcha_private_key
+msgid "Altcha Private Key"
+msgstr "Приватний ключ Altcha"
+
+#. module: website_altcha
+#: model:ir.model.fields,field_description:website_altcha.field_res_config_settings__altcha_timeout
+#: model:ir.model.fields,field_description:website_altcha.field_website__altcha_timeout
+msgid "Altcha Timeout"
+msgstr "Тайм-аут Altcha"
+
+#. module: website_altcha
+#: model:ir.model.fields,field_description:website_altcha.field_res_config_settings__altcha_enabled
+msgid "Enable Altcha"
+msgstr "Увімкнути Altcha"
+
+#. module: website_altcha
+#: model_terms:ir.ui.view,arch_db:website_altcha.res_config_settings_view_form
+msgid "HMAC key secret"
+msgstr "Секрет HMAC-ключа"
+
+#. module: website_altcha
+#: model_terms:ir.ui.view,arch_db:website_altcha.res_config_settings_view_form
+msgid "HMAC secret"
+msgstr "Секрет HMAC"
+
+#. module: website_altcha
+#: model:ir.model.fields,field_description:website_altcha.field_altcha_key__write_uid
+msgid "Last Updated by"
+msgstr "Останнє оновлення ким"
+
+#. module: website_altcha
+#: model:ir.model.fields,field_description:website_altcha.field_altcha_key__write_date
+msgid "Last Updated on"
+msgstr "Останнє оновлення"
+
+#. module: website_altcha
+#: model_terms:ir.ui.view,arch_db:website_altcha.res_config_settings_view_form
+msgid "Timeout"
+msgstr "Тайм-аут"

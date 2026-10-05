@@ -45,3 +45,50 @@ msgstr "Опублікувати"
 #: model_terms:ir.ui.view,arch_db:website_blog_scheduled_publication.blog_post_schedule_date_view_form
 msgid "Schedule"
 msgstr "Розклад"
+
+#. module: website_blog_scheduled_publication
+#: model_terms:ir.ui.view,arch_db:website_blog_scheduled_publication.blog_post_schedule_date_view_form
+msgid "Discard"
+msgstr "Відкинути"
+
+#. module: website_blog_scheduled_publication
+#: model:ir.model.fields,field_description:website_blog_scheduled_publication.field_blog_post_schedule_date__write_uid
+msgid "Last Updated by"
+msgstr "Останнє оновлення ким"
+
+#. module: website_blog_scheduled_publication
+#: model:ir.model.fields,field_description:website_blog_scheduled_publication.field_blog_post_schedule_date__write_date
+msgid "Last Updated on"
+msgstr "Останнє оновлення"
+
+#. module: website_blog_scheduled_publication
+#: model_terms:ir.ui.view,arch_db:website_blog_scheduled_publication.view_blog_post_search_scheduled
+msgid "Not Published"
+msgstr "Не опубліковано"
+
+#. module: website_blog_scheduled_publication
+#: model_terms:ir.ui.view,arch_db:website_blog_scheduled_publication.view_blog_post_search_scheduled
+msgid "Publication Date"
+msgstr "Дата публікації"
+
+#. module: website_blog_scheduled_publication
+#: model_terms:ir.ui.view,arch_db:website_blog_scheduled_publication.view_blog_post_search_scheduled
+msgid "Published"
+msgstr "Опубліковано"
+
+#. module: website_blog_scheduled_publication
+#: model_terms:ir.ui.view,arch_db:website_blog_scheduled_publication.view_blog_post_search_scheduled
+msgid "Scheduled"
+msgstr "Заплановано"
+
+#. module: website_blog_scheduled_publication
+#: model:ir.actions.act_window,name:website_blog_scheduled_publication.action_blog_post_calendar_scheduled
+#: model_terms:ir.ui.view,arch_db:website_blog_scheduled_publication.view_blog_post_calendar_scheduled
+msgid "Scheduled Blog Posts"
+msgstr "Заплановані публікації блогу"
+
+#. module: website_blog_scheduled_publication
+#: model:ir.model.fields,field_description:website_blog_scheduled_publication.field_blog_post__scheduled_publication_date
+#: model_terms:ir.ui.view,arch_db:website_blog_scheduled_publication.view_blog_post_search_scheduled
+msgid "Scheduled Publication Date"
+msgstr "Запланована дата публікації"

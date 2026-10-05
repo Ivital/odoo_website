@@ -23,3 +23,20 @@ msgstr "URL відстеження"
 #: model:ir.model.fields,field_description:website_whatsapp.field_res_config_settings__whatsapp_enabled
 msgid "Use Whatsapp"
 msgstr "Використовувати WhatsApp"
+
+#. module: website_whatsapp
+#: model:ir.model.fields,field_description:website_whatsapp.field_res_config_settings__whatsapp_text
+#: model:ir.model.fields,field_description:website_whatsapp.field_website__whatsapp_text
+msgid "Default text for Whatsapp"
+msgstr "Типовий текст для WhatsApp"
+
+#. module: website_whatsapp
+#: model_terms:ir.ui.view,arch_db:website_whatsapp.res_config_settings_view_form
+msgid "Values set here are website-specific."
+msgstr "Значення, задані тут, є специфічними для вебсайту."
+
+#. module: website_whatsapp
+#: model:ir.model.fields,field_description:website_whatsapp.field_res_config_settings__whatsapp_number
+#: model:ir.model.fields,field_description:website_whatsapp.field_website__whatsapp_number
+msgid "WhatsApp number"
+msgstr "Номер WhatsApp"
