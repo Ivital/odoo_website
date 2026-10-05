@@ -22,3 +22,21 @@ msgstr "Видимо для авторизованих користувачів"
 #: model:ir.model.fields,field_description:website_menu_by_user_status.field_website_menu__user_not_logged
 msgid "Visible for public Users"
 msgstr "Видимо для публічних користувачів"
+
+#. module: website_menu_by_user_status
+#: model:ir.model.fields,help:website_menu_by_user_status.field_website_menu__user_logged
+msgid ""
+"If checked, the menu will be displayed when the user is logged and give "
+"access."
+msgstr ""
+"Якщо позначено, меню відображатиметься для авторизованого користувача й "
+"надаватиме доступ."
+
+#. module: website_menu_by_user_status
+#: model:ir.model.fields,help:website_menu_by_user_status.field_website_menu__user_not_logged
+msgid ""
+"If checked, the menu will be displayed when the user is not logged and give "
+"access."
+msgstr ""
+"Якщо позначено, меню відображатиметься для неавторизованого користувача й "
+"надаватиме доступ."

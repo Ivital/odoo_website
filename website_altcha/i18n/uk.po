@@ -138,3 +138,19 @@ msgid "Time in minutes before a captcha expires. Default is 5 minutes."
 msgstr ""
 "Час у хвилинах до закінчення строку дії captcha. За замовчуванням — 5 "
 "хвилин."
+
+#. module: website_altcha
+#: model:ir.model.fields,help:website_altcha.field_res_config_settings__altcha_enabled
+msgid "Enable Altcha functionality on the website."
+msgstr "Увімкнути функціональність Altcha на вебсайті."
+
+#. module: website_altcha
+#. odoo-python
+#: code:addons/website_altcha/models/ir_http.py:0
+msgid "Suspicious activity detected by Altcha"
+msgstr "Altcha виявила підозрілу активність"
+
+#. module: website_altcha
+#: model:ir.model.constraint,message:website_altcha.constraint_altcha_key_key_uniq
+msgid "The Altcha key must be unique."
+msgstr "Ключ Altcha має бути унікальним."

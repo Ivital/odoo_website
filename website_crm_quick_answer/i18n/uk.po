@@ -17,3 +17,14 @@ msgstr ""
 #: model:ir.actions.server,name:website_crm_quick_answer.send_email_action
 msgid "Send email: Quick response to website contact form"
 msgstr "Надіслати email: швидка відповідь на контактну форму вебсайту"
+
+#. module: website_crm_quick_answer
+#: model:base.automation,name:website_crm_quick_answer.automated_action
+#: model:mail.template,name:website_crm_quick_answer.email_template
+msgid "Quick response to website contact form"
+msgstr "Швидка відповідь на контактну форму вебсайту"
+
+#. module: website_crm_quick_answer
+#: model:mail.template,subject:website_crm_quick_answer.email_template
+msgid "Thanks for your request"
+msgstr "Дякуємо за ваш запит"

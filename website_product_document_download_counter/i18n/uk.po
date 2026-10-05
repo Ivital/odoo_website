@@ -22,3 +22,15 @@ msgstr "Кількість завантажень"
 #: model:ir.model.fields,field_description:website_product_document_download_counter.field_product_document__download_count_enabled
 msgid "Download Count Enabled"
 msgstr "Увімкнути лічильник завантажень"
+
+#. module: website_product_document_download_counter
+#: model:ir.model.fields,help:website_product_document_download_counter.field_product_document__download_count_enabled
+msgid "Enable download counting for this document when published on website"
+msgstr ""
+"Увімкнути підрахунок завантажень для цього документа після публікації на "
+"вебсайті"
+
+#. module: website_product_document_download_counter
+#: model:ir.model.fields,help:website_product_document_download_counter.field_product_document__download_count
+msgid "Number of times this document has been downloaded"
+msgstr "Кількість завантажень цього документа"

@@ -138,3 +138,22 @@ msgstr "Це негайно опублікує допис у блозі. Ви в
 #: model:ir.actions.act_window,name:website_blog_scheduled_publication.blog_post_schedule_date_action
 msgid "When do you want to publish this blog post?"
 msgstr "Коли ви хочете опублікувати цей допис блогу?"
+
+#. module: website_blog_scheduled_publication
+#: model:ir.model.fields,help:website_blog_scheduled_publication.field_blog_post__is_scheduled
+msgid "If checked, the blog post will be scheduled for publication."
+msgstr "Якщо позначено, публікацію блогу буде заплановано."
+
+#. module: website_blog_scheduled_publication
+#: model:ir.model.fields,help:website_blog_scheduled_publication.field_blog_post__scheduled_publication_date
+msgid ""
+"If set, the blog post will be automatically published on this date and time."
+" Leave empty to publish immediately."
+msgstr ""
+"Якщо задано, допис блогу буде автоматично опубліковано в цю дату й час. "
+"Залиште порожнім для негайної публікації."
+
+#. module: website_blog_scheduled_publication
+#: model:ir.model,name:website_blog_scheduled_publication.model_blog_post_schedule_date
+msgid "Schedule a blog post publication"
+msgstr "Запланувати публікацію допису блогу"

@@ -54,3 +54,17 @@ msgstr "Останнє оновлення ким"
 #: model:ir.model.fields,field_description:website_require_login.field_website_auth_url__write_date
 msgid "Last Updated on"
 msgstr "Останнє оновлення"
+
+#. module: website_require_login
+#: model:ir.model.fields,help:website_require_login.field_website_auth_url__path
+msgid ""
+"Relative URL path and subpath. Ex.: /shop will restrict /shop, "
+"/shop/product, etc."
+msgstr ""
+"Відносний URL-шлях і підшлях. Напр.: /shop обмежить /shop, /shop/product "
+"тощо."
+
+#. module: website_require_login
+#: model:ir.model.constraint,message:website_require_login.constraint_website_auth_url_path_unique
+msgid "The path must be unique per website!"
+msgstr "Шлях має бути унікальним для кожного вебсайту!"

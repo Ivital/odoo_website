@@ -39,3 +39,20 @@ msgstr ""
 #: model_terms:ir.ui.view,arch_db:website_user_login_redirect_custom.view_website_login_redirect_settings
 msgid "Relative path, e.g. <code>/shop</code> or <code>/welcome</code>."
 msgstr "Відносний шлях, напр. <code>/shop</code> або <code>/welcome</code>."
+
+#. module: website_user_login_redirect_custom
+#: model:ir.model.fields,help:website_user_login_redirect_custom.field_res_config_settings__website_login_redirect_enabled
+msgid ""
+"If checked, users will be redirected to a custom URL after login/signup."
+msgstr ""
+"Якщо позначено, після входу/реєстрації користувачів буде перенаправлено на "
+"власну URL-адресу."
+
+#. module: website_user_login_redirect_custom
+#: model:ir.model.fields,help:website_user_login_redirect_custom.field_res_config_settings__website_login_redirect_url
+msgid ""
+"Relative URL path where users will be redirected after login/signup. "
+"Example: '/', '/shop', '/thank-you-for-joining-us'."
+msgstr ""
+"Відносний URL-шлях, куди користувачів буде перенаправлено після "
+"входу/реєстрації. Приклад: '/', '/shop', '/thank-you-for-joining-us'."
